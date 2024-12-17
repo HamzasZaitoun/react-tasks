@@ -1,0 +1,29 @@
+.counterContainer
+{
+    text-align: center;
+    margin: auto;
+
+}
+.counterDisplay
+{
+    font-size: 10em;
+    background-color: hsl(50, 58%, 59%);
+    color: aliceblue;
+}
+.counterBtn
+{
+    margin: 0 5px;
+    width: 20%;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(50, 58%, 59%);
+    color: aliceblue;
+    cursor: pointer;
+}
+.counterBtn:hover
+{
+    background-color: hsl(50, 58%, 49%);
+
+}
+
